@@ -48,10 +48,14 @@ Este é um projeto simples e funcional de lista de tarefas (To-do List), desenvo
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seuusuario/nome-do-repositorio
+git clone (https://github.com/MaximillionDev1/TodoList)
 
 # Instale as dependências
 npm install
 
 # Inicie o projeto
 npm run dev
+🔗 Contato
+Desenvolvido por Matheus Vinicius
+📧 matheus_vinix@hotmail.com.br
+🔗 (https://www.linkedin.com/in/matheus-vinicius-rodrigues/)
